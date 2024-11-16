@@ -1,3 +1,17 @@
+# Proyecto: Gestión de Productos con React y TypeScript
+
+Este proyecto es una aplicación simple para gestionar productos, desarrollada con **React**, **TypeScript**, y **React-Bootstrap**. Permite agregar productos a través de un formulario, listarlos dinámicamente y mostrarlos en tarjetas con sus detalles.
+
+## Características
+
+- Agregar productos con nombre, imagen (URL) y precio.
+- Visualización de productos en una lista con diseño responsivo.
+- Uso de React Hooks (`useState` y `useForm`) para el manejo de estado y formularios.
+
+## Link Deploy:
+
+- https://proyecto-react-1wgds918x-facundo-reches-projects.vercel.app
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
